@@ -7,7 +7,7 @@ date: 2018-01-19
 labels:
   - Computer Programming
   - Learning
-  - JavaScript
+  - Questions
 ---
 
 ## Asking the Right Questions
