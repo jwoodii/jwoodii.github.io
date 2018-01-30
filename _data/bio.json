@@ -58,8 +58,7 @@
         "Javascript",
       ]
     },
-    ]
-},
+    ],
   "education": [ {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2020)",
@@ -82,8 +81,8 @@
       "highlights": [
         "Help and guide Customers with question or problems as well as knowing products in the Department"
       ]
-    },
-    ]
+    }
+    ],
   "references": [
     {
       "name": "Available upon request",
