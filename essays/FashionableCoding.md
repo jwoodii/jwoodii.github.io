@@ -9,7 +9,6 @@ labels:
   - Learning
   - Coding Style
 ---
-## Fashionable Coding	
 
 Coding style I feel is one of the simplest and easiest changes one can make that will definitely help improve one’s coding. It helped me find bugs in my code faster and makes my code much easier to read, for me and other who might read it.  
 
